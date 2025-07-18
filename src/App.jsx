@@ -7,9 +7,9 @@ import Viewer from './viewer'
 function App() {
 
   return (
-    <>
+    <div className="container">
       <Viewer/>
-    </>
+    </div>
   )
 }
 
